@@ -22,3 +22,6 @@ This is a simple console-based calculator program written in Java. It allows the
 
 ## Purpose
 This project serves as a beginner-friendly example of a simple calculator in Java. It demonstrates basic concepts such as user input, control structures (`switch` statement), and basic error handling.
+
+
+
